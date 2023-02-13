@@ -4,8 +4,6 @@
 
 ### Gist (Queries): [GraphQL Queries & Mutations](https://gist.github.com/bradtraversy/fc527bc9a4659ab8de8e8066f3498723)
 
-<br>
-
 # Motivation
 
 _This document was created by IxxI5_
@@ -41,8 +39,6 @@ _It is a simple Project Management System, where we can add/manage clients, add 
 **GraphQL:** _It is a query language for APIs and a runtime for fulfilling those queries with existing (database) data. Access to the API is conducted through a single endpoint e.g. /graphql running under the graphqlHTTP Server (where there we send our queries)._
 
 **Warning!** Steps content must be executed in the given order.
-
-<br>
 
 ## **Step 1 - Creating an ATLAS MongoDB Database**
 
@@ -90,11 +86,7 @@ _It is a simple Project Management System, where we can add/manage clients, add 
 
 **Replace the username and password with those you created for MognoDB User**
 
-<br>
-
 **Info:** Use Mongo Compass Desktop App to check your data: https://mongodb.com/products/compass
-
-<br>
 
 ## **Step 2 - VS Code**
 
@@ -103,8 +95,6 @@ _Install Extensions_
 **VS Code ES7+ React/Redux/React-Native/JS snippets**
 
 **GitHub Copilot (non-mandatory)**
-
-<br>
 
 ## **Step 3 - Server Side**
 
@@ -137,8 +127,6 @@ _Install Packages (npm ...) And Create Project's Structure (...)_
 **project-mgmt-app/server/index.js**
 
 **project-mgmt-app/.env**
-
-<br>
 
 ## - Remarks (npm) | VS Code Terminal -
 
@@ -184,8 +172,6 @@ _installs the node.js tool as a dev-dependency that automatically restarts the n
 
 _installs the zero-dependency module that loads environment variables from a .env file into process.env._
 
-<br>
-
 ## - Remarks (Folders and Files) | VS Code Explorer -
 
 _Created Folders_
@@ -199,8 +185,6 @@ _Created Folders_
 **project-mgmt-app/server/models**
 
 **project-mgmt-app/server/schema**
-
-<br>
 
 _Created Files_
 
@@ -476,13 +460,9 @@ _Install Packages (npm ...) And Create Project's Structure (...)_
 
 **npm start**
 
-<br>
-
 **Info:** Client (React) Server is now running but on PORT: 3000 (create/configure launch.json file for the browser accordingly).
 
 **Fact:** We have two servers runnîng, one for the Backend (PORT: 5000) and another for the Frontend (PORT: 3000).
-
-<br>
 
 ## - Remarks (Folders and Files) | VS Code Explorer -
 
@@ -500,14 +480,12 @@ _Created Folders_
 
 **project-mgmt-app/client/src/queries**
 
-<br>
-
 _Modified Files_
 
 ```javascript
 /* client/public/index.html:
    Add the CDN Bootstrap 5.3 links into <head> */
-   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
 
@@ -625,8 +603,6 @@ _Create React Components (.jsx files)_
 **project-mgmt-app/client/src/components/Projects.jsx**
 
 **project-mgmt-app/client/src/components/Spinner.jsx**
-
-<br>
 
 ## - Remarks (.jsx files) | VS Code Explorer -
 
@@ -923,8 +899,6 @@ _Created Files (initially empty React Components)_
 
 **client/src/pages/Project.jsx**
 
-<br>
-
 ## - Remarks (.jsx files) | VS Code Explorer -
 
 _Created Files (initially empty React Components)_
@@ -990,8 +964,6 @@ export default function Project() {
   return <>{/* html plus React Components */}</>;
 }
 ```
-
-<br>
 
 ## - Remarks (.js files) | VS Code Explorer -
 
@@ -1069,8 +1041,6 @@ export default App;
 */
 ```
 
-<br>
-
 ## **Step 11 - Client Side | Bootstrap**
 
 _CSS Bootstrap Classes Equivalents_
@@ -1080,8 +1050,6 @@ https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
 _Bootstrap 5.3_
 
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
-
-<br>
 
 > _The impossible is just a lack of unrestricted creativity_
 >
