@@ -1,10 +1,10 @@
-### YouTube: [GraphQL Crash Course With Full Stack MERN Project](https://www.youtube.com/watch?v=BcLNfwF04Kw)
-
-### Git (Code): [Project Mgmt App](https://github.com/bradtraversy/project-mgmt-graphql)
-
-### Gist (Queries): [GraphQL Queries & Mutations](https://gist.github.com/bradtraversy/fc527bc9a4659ab8de8e8066f3498723)
-
 ## HOW TO CREATE THE [Project Mgmt App](https://github.com/bradtraversy/project-mgmt-graphql) FROM SCRATCH
+
+##### YouTube: [GraphQL Crash Course With Full Stack MERN Project](https://www.youtube.com/watch?v=BcLNfwF04Kw)
+
+##### Git (Code): [Project Mgmt App](https://github.com/bradtraversy/project-mgmt-graphql)
+
+##### Gist (Queries): [GraphQL Queries & Mutations](https://gist.github.com/bradtraversy/fc527bc9a4659ab8de8e8066f3498723)
 
 **Full Stack Web Application** _by Brad Traversy_
 
