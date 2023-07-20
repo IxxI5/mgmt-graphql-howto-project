@@ -412,47 +412,47 @@ mutation {
 
 _Install Packages (npm ...) And Create Project's Structure (...)_
 
-**project-mgmt-app**
+```
+cd project-mgmt-app
 
-**VS Code: Open a New (+) Terminal**
+** VS Code: Open a New (+) Terminal **
 
-**npx create-react-app client**
+npx create-react-app client
 
-**cd client**
+cd client
 
-**npm i @apollo/client graphql react-router-dom react-icons**
+npm i @apollo/client graphql react-router-dom react-icons
 
-**project-mgmt-app/client/src/components**
+mkdir src\components
 
-**project-mgmt-app/client/src/components/assets**
+mkdir src\components\assets
 
-**project-mgmt-app/client/src/mutations**
+mkdir src\mutations
 
-**project-mgmt-app/client/src/pages**
+mkdir src\pages
 
-**project-mgmt-app/client/src/queries**
+mkdir src\queries
 
-**project-mgmt-app/client/index.css**
+type nul > index.css
 
-**Replace** CSS with your own
+del App.css
 
-**project-mgmt-app/client**
+del logo.png
 
-**Delete** App.css and logo.png
+cd src/components/assets
 
-**project-mgmt-app/client/src/components/assets**
+** Add logo.png **
 
-**Add** logo.png
+cd ..\..\..\
 
-**project-mgmt-app/client/App.js**
+cd client
 
-**Replace** content with an empty JSX component | See below
+client/App.js ** Replace content with an empty JSX component | See below **
 
-**project-mgmt-app/client/public/index.html**
+client/public/index.html: **AddCDN bootstrap links into index.html < head> | See below **
 
-**Add** CDN bootstrap links into index.html < head> | See below
-
-**npm start**
+npm start
+```
 
 **Info:** Client (React) Server is now running but on PORT: 3000 (create/configure launch.json file for the browser accordingly).
 
