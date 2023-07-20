@@ -28,47 +28,47 @@ _It is a simple Project Management System, where we can add/manage clients, add 
 
 **Go to:** https://www.mongodb.com/cloud/atlas/register
 
-**Login or Create your ATLAS account**
+- **Login or Create your ATLAS account**
 
-**Create a Project**
+- **Create a Project**
 
-**Deploy a Cloud Database: Free (Shared) | Create**
+- **Deploy a Cloud Database: Free (Shared) | Create**
 
-**Cloud Provider & Region: aws**
+- **Cloud Provider & Region: aws**
 
-**Cluster Name: Cluster0 | Create Cluster**
+- **Cluster Name: Cluster0 | Create Cluster**
 
 **Create a database user using username and password | read/write privilege by default**
 
-**Create User**
+- **Create User**
 
-**Where would you like to connect from**
+- **Where would you like to connect from**
 
-**Add My Current IP Address | Finish and Close | Goto Database**
+- **Add My Current IP Address | Finish and Close | Goto Database**
 
-**Browse Collections (on database creation completion)**
+- **Browse Collections (on database creation completion)**
 
-**Add My Own Data**
+- **Add My Own Data**
 
-**Create Database | Database name: mgmt_db | Collection name: clients**
+- **Create Database | Database name: mgmt_db | Collection name: clients**
 
-**Cluster0 | Overview | Connect**
+- **Cluster0 | Overview | Connect**
 
-**Connect using Mongo Compass | Copy the connection string e.g:**
+- **Connect using Mongo Compass | Copy the connection string e.g:**
 
-**mongodb+srv://username:<_password_>@cluster0.maxbpob.mongodb.net/mgmt_db**
+  **mongodb+srv://username:<_password_>@cluster0.maxbpob.mongodb.net/mgmt_db**
 
-**Replace the username and password with those you created for MognoDB User**
+- **Replace the username and password with those you created for MognoDB User**
 
-**Paste the above connection string to Mongo Compass**
+- **Paste the above connection string to Mongo Compass**
 
-**Cluster0 | Overview | Connect**
+- **Cluster0 | Overview | Connect**
 
-**Connect using your application | Copy the connection string e.g:**
+- **Connect using your application | Copy the connection string e.g:**
 
-**mongodb+srv://username:<_password_>@cluster0.maxbpob.mongodb.net/mgmt_db?retryWrites=true&w=majority**
+  **mongodb+srv://username:<_password_>@cluster0.maxbpob.mongodb.net/mgmt_db?retryWrites=true&w=majority**
 
-**Replace the username and password with those you created for MognoDB User**
+- **Replace the username and password with those you created for MognoDB User**
 
 **Info:** Use Mongo Compass Desktop App to check your data: https://mongodb.com/products/compass
 
