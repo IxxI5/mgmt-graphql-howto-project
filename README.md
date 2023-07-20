@@ -1050,7 +1050,3 @@ https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
 _Bootstrap 5.3_
 
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
-
-> _The impossible is just a lack of unrestricted creativity_
->
-> --- <cite> IxxI5</cite>
