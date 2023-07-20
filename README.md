@@ -576,27 +576,33 @@ export { ADD_PROJECT, DELETE_PROJECT, UPDATE_PROJECT };
 
 _Create React Components (.jsx files)_
 
-**project-mgmt-app/client/src/components/AddClientModal.jsx**
+**VS Code Command Prompt Terminal**
 
-**project-mgmt-app/client/src/components/AddProjectModal.jsx**
+```
+cd project-mgmt-app/client/src/components
 
-**project-mgmt-app/client/src/components/ClientInfo.jsx**
+type nul > AddClientModal.jsx
 
-**project-mgmt-app/client/src/components/ClientRow.jsx**
+type nul > AddProjectModal.jsx
 
-**project-mgmt-app/client/src/components/Clients.jsx**
+type nul > ClientInfo.jsx
 
-**project-mgmt-app/client/src/components/DeleteProjectButton.jsx**
+type nul > ClientRow.jsx
 
-**project-mgmt-app/client/src/components/EditProjectForm.jsx**
+type nul > Clients.jsx
 
-**project-mgmt-app/client/src/components/Header.jsx**
+type nul > DeleteProjectButton.jsx
 
-**project-mgmt-app/client/src/components/ProjectCard.jsx**
+type nul > EditProjectForm.jsx
 
-**project-mgmt-app/client/src/components/Projects.jsx**
+type nul > Header.jsx
 
-**project-mgmt-app/client/src/components/Spinner.jsx**
+type nul > ProjectCard.jsx
+
+type nul > Projects.jsx
+
+type nul > Spinner.jsx
+```
 
 ## - Remarks (.jsx files) | VS Code Explorer -
 
