@@ -84,33 +84,43 @@ _Install Extensions_
 
 _Install Packages (npm ...) And Create Project's Structure (...)_
 
-**project-mgmt-graphql**
+**VS Code Command Prompt Terminal**
 
-**npm init -y**
+```
+mkdir project-mgmt-graphql
 
-**npm i express express-graphql graphql mongoose cors colors**
+cd project-mgmt-graphql
 
-**npm i -D nodemon dotenv**
+npm init -y
 
-**project-mgmt-app/server**
+npm i express express-graphql graphql mongoose cors colors
 
-**project-mgmt-app/server/config**
+npm i -D nodemon dotenv
 
-**project-mgmt-app/server/models**
+mkdir project-mgmt-app\server
 
-**project-mgmt-app/server/schema**
+cd server
 
-**project-mgmt-app/server/config/db.js**
+mkdir config
 
-**project-mgmt-app/server/models/Client.js**
+mkdir models
 
-**project-mgmt-app/server/models/Project.js**
+mkdir schema
 
-**project-mgmt-app/server/schema/schema.js**
+type nul > config/db.js
 
-**project-mgmt-app/server/index.js**
+type nul > models/Client.js
 
-**project-mgmt-app/.env**
+type nul > models/Project.js
+
+type nul > schema/schema.js
+
+type nul > index.js
+
+cd..
+
+type nul > .env
+```
 
 ## - Remarks (npm) | VS Code Terminal -
 
