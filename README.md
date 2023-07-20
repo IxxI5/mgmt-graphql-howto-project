@@ -76,9 +76,9 @@ _It is a simple Project Management System, where we can add/manage clients, add 
 
 _Install Extensions_
 
-**VS Code ES7+ React/Redux/React-Native/JS snippets**
+- **VS Code ES7+ React/Redux/React-Native/JS snippets**
 
-**GitHub Copilot (non-mandatory)**
+- **GitHub Copilot (non-mandatory)**
 
 ## **Step 3 - Server Side**
 
