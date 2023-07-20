@@ -4,23 +4,7 @@
 
 ### Gist (Queries): [GraphQL Queries & Mutations](https://gist.github.com/bradtraversy/fc527bc9a4659ab8de8e8066f3498723)
 
-# Motivation
-
-_This document was created by IxxI5_
-
-## Learning
-
-_Learning and practicing programming through online video tutorials with code along is a great experience however, there is a small problem (actually it is not that small)._
-
-## Challenge
-
-_What you do when the lights go down (video tutorial is ended) and you have some basic programming skills but you don't have a daily SW Developer job (to exercise what you learned) however, you are very interested in (or you have the inclination but you ignored it so far) to change professional direction and someday to become an SW Developer. Not to mention, there are tons of other tutorials you may probably have to watch. Are you going to remember all this stuff, some days later? No._
-
-## A Probable Solution
-
-_An accelerating process (the necessity of getting up to speed with any challenge) when needed, would be of great help. Here is what I suggest: While watching a video tutorial, create a HOW TO manual (see below) with short practical notes (actions in steps in a given order). Then, attempt to recreate the project based on those notes, as much as possible._
-
-# HOW TO CREATE THE [Project Mgmt App](https://github.com/bradtraversy/project-mgmt-graphql) FROM SCRATCH
+## HOW TO CREATE THE [Project Mgmt App](https://github.com/bradtraversy/project-mgmt-graphql) FROM SCRATCH
 
 **Full Stack Web Application** _by Brad Traversy_
 
