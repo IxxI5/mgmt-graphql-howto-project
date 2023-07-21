@@ -1,5 +1,7 @@
 ## HOW TO CREATE THE [Project Mgmt App](https://github.com/bradtraversy/project-mgmt-graphql) FROM SCRATCH
 
+Author: IxxI5
+
 ##### YouTube: [GraphQL Crash Course With Full Stack MERN Project](https://www.youtube.com/watch?v=BcLNfwF04Kw)
 
 ##### Git (Code): [Project Mgmt App](https://github.com/bradtraversy/project-mgmt-graphql)
